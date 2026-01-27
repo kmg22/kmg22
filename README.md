@@ -32,8 +32,8 @@
 
 ## 🗃️ Github & Baekjoon Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmg22&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmg22&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kmg22&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmg22&layout=compact&count_private=true&theme=tokyonight" alt="Top Languages" height="170" />
   <a href="https://solved.ac/kmg22">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helio_kmg" alt="Baekjoon Tier" />
   </a>
