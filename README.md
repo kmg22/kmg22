@@ -9,7 +9,9 @@
 > **"안정성과 확장성을 고민하는 백엔드 & DevOps 지망생, 김민경입니다."**
 *  **숭실대학교** 소프트웨어학부 (정보보호융합전공) 재학 중
 *  **관심 분야**: 인프라 보안, 쿠버네티스 환경의 확장 가능한 시스템 설계
-*  **Blog**: https://velog.io/@kmg22/about | **Contact**: ssukmg22@gmail.com
+*  **Contact**: ssukmg22@gmail.com
+  
+ [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://velog.io/@kmg22/about)
 
 ---
 
@@ -30,13 +32,8 @@
 
 ## 🗃️ Github & Baekjoon Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmg22&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmg22&layout=compact&theme=radical" alt="Top Languages" height="170" />
-</div>
-
-<br/>
-
-<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kmg22&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmg22&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
   <a href="https://solved.ac/kmg22">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helio_kmg" alt="Baekjoon Tier" />
   </a>
