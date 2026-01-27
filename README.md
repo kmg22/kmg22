@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mingyeong%20Kim&fontSize=70" />
+  <h2 align="center">
+    <a href="https://github.com/kmg22/Portfolio" target="_blank">https://github.com/kmg22/Portfolio</a>
+  </h2>
+</div>
 
-<!--
-**kmg22/kmg22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+> **"안정성과 확장성을 고민하는 백엔드 & DevOps 지망생, 김민경입니다."**
+*  **숭실대학교** 소프트웨어학부 (정보보호융합전공) 재학 중
+*  **관심 분야**: 인프라 보안, 쿠버네티스 환경의 확장 가능한 시스템 설계
+*  **Blog**: https://velog.io/@kmg22/about | **Contact**: ssukmg22@gmail.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</div>
+
+---
+
+## 🗃️ Github & Baekjoon Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kmg22&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmg22&layout=compact&theme=radical" alt="Top Languages" height="170" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://solved.ac/kmg22">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=helio_kmg" alt="Baekjoon Tier" />
+  </a>
+</div>
+
