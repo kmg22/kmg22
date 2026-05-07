@@ -7,9 +7,9 @@
 
 ## 👩‍💻 About Me
 > **"안정성과 확장성을 고민하는 백엔드 & DevOps 개발자, 김민경입니다."**
-*  **숭실대학교** 소프트웨어학부 (정보보호융합전공) 재학 중
+*  **○○대학교** 소프트웨어학부 (정보보호융합전공) 재학 중
 *  **관심 분야**: 인프라 보안, 쿠버네티스 환경의 확장 가능한 시스템 설계
-*  **Contact**: ssukmg22@gmail.com
+*  **Contact**: mingw22dev@gmail.com
 
 [![Blog](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://velog.io/@kmg22/about)
 
